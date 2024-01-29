@@ -72,3 +72,24 @@ Hint This single plot will include lines for both sale_price_sqr_foot and gross_
 * Answer 1: The tred is that rental income has increased while sales price has remained somewhat stagnant with minimal inscreases. There are some neighborhoods that have seen slight drcreases in sales price but they are exceptions. For example, Union Square does show a higher growth of sales prices in comparison to other neighborhoods and rental income growth.
 * Question 2: What insights can you share with your company about the potential one-click, buy-and-rent strategy that they're pursuing? Do neighborhoods exist that you would suggest for investment, and why?
 * Answer 2: The one-click & buy-and-rent strategy will be successful in San Francisco. I would reccomend investing in areas that don't have recent decreases in either metric. However, this data is not considering Covid-19 in which these predictions does not consider the potential housing market coming to a hault in 2020.
+
+# Resources 
+## In Class Activites 
+* https://git.bootcampcontent.com/University-of-California---Berkeley/UCB-VIRT-FIN-PT-12-2023-U-LOLC/-/blob/main/05-APIs/Class_2_Activities/04-Ins_Alpaca_Demo/Solved/alpaca-demo.ipynb?ref_type=heads
+* https://git.bootcampcontent.com/University-of-California---Berkeley/UCB-VIRT-FIN-PT-12-2023-U-LOLC/-/blob/main/05-APIs/Class_2_Activities/05-Stu_Investment_Value/Solved/investment-value.ipynb?ref_type=heads
+
+## Tutors & Peers 
+### Tutor Meetings through FINTECH Bootcamp:
+* Vijaya
+- Tuesday 1/23/2024
+- Wednesday 1/31/2024
+
+### Tutor Meetings External Resources:
+* Edward R.
+* Website: https://www.edwardrees.info
+- Sunday 1/28/2024
+ 
+### Study Partner taking FINTECH Bootcamp (Same Class):
+* German Romero
+- Helped eachother fix code errors
+- Cross Referenced work to help eachother understand why we are using a specific code and understand what the question is asking us for
