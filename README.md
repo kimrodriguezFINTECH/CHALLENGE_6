@@ -27,7 +27,7 @@ The main task in this Challenge is to visualize and analyze the real-estate data
 * Question: What is the overall trend in housing_units over the period being analyzed?
 * Answer: Housing_units steadly increased between 2010 and 2016 at a rate of 1900 to 2000 per year
 
-# Calculate and Plot the Average Sale Prices per Square Foot¶
+# Calculate and Plot the Average Sale Prices per Square Foot
 1. Group the data by year, and then average the results. What’s the lowest gross rent that’s reported for the years that the DataFrame includes?
 
 2. Create a new DataFrame named prices_square_foot_by_year by filtering out the “housing_units” column. The new DataFrame should include the averages per year for only the sale price per square foot and the gross rent.
