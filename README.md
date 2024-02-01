@@ -32,10 +32,14 @@ The main task in this Challenge is to visualize and analyze the real-estate data
 
 2. Create a new DataFrame named prices_square_foot_by_year by filtering out the “housing_units” column. The new DataFrame should include the averages per year for only the sale price per square foot and the gross rent.
 
-3. Use hvPlot to plot the prices_square_foot_by_year DataFrame as a line plot.
+3. Answer the following question:
+- Question: What is the lowest gross rent reported for the years included in the DataFrame?
+- Answer: The lowest gross rent is 1239, in the year 2010.
+
+4. Use hvPlot to plot the prices_square_foot_by_year DataFrame as a line plot.
 Hint This single plot will include lines for both sale_price_sqr_foot and gross_rent.
 
-4. Answer the following questions:
+5. Answer the following questions:
 * Question 1: Did any year experience a drop in the average sale price per square foot compared to the previous year?
 * Answer 1: There was a small drop in average sale price per square foot from 2010-2011.
 * Question 2: If so, did the gross rent increase or decrease during that year?
@@ -74,7 +78,7 @@ Hint This single plot will include lines for both sale_price_sqr_foot and gross_
 * Answer 2: The one-click & buy-and-rent strategy will be successful in San Francisco. I would reccomend investing in areas that don't have recent decreases in either metric. However, this data is not considering Covid-19 in which these predictions does not consider the potential housing market coming to a hault in 2020.
 
 # Compose Your Data Story
-* Based on the visualizations that you have created, compose a data story that synthesizes your analysis by answering the following questions:
+Based on the visualizations that you have created, compose a data story that synthesizes your analysis by answering the following questions:
 
 - Question 1: How does the trend in rental income growth compare to the trend in sales prices? Does this same trend hold true for all the neighborhoods across San Francisco?
 - Answer 1: The tred is that rental income has increased while sales price has remained somewhat stagnant with minimal inscreases. There are some neighborhoods that have seen slight drcreases in sales price but they are exceptions. For example, Union Square does show a higher growth of sales prices in comparison to other neighborhoods and rental income growth.
