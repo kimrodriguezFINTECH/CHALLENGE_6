@@ -19,9 +19,15 @@ The main task in this Challenge is to visualize and analyze the real-estate data
 # Calculate and Plot the Housing Units per Year
 1. Use the groupby function to group the data by year. Aggregate the results by the mean of the groups.
 
+<img width="759" alt="Screenshot 2024-01-31 at 6 49 14 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_6/assets/152752672/5724d622-6ceb-47f5-9da6-f35c14ef331c">
+
 2. Use the hvplot function to plot the housing_units_by_year DataFrame as a bar chart. Make the x-axis represent the year and the y-axis represent the housing_units.
 
+<img width="723" alt="Screenshot 2024-01-31 at 6 49 26 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_6/assets/152752672/16fed12e-f483-4417-b946-40577efe964a">
+
 3. Style and format the line plot to ensure a professionally styled visualization.
+
+<img width="907" alt="Screenshot 2024-01-31 at 6 49 32 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_6/assets/152752672/88ef9f24-ef6f-4cc3-bd49-d9c3a39e833c">
 
 4. Answer the following question:
 * Question: What is the overall trend in housing_units over the period being analyzed?
