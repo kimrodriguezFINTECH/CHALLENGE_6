@@ -88,8 +88,8 @@ Based on the visualizations that you have created, compose a data story that syn
 
 # Resources 
 ## In Class Activites 
-* https://git.bootcampcontent.com/University-of-California---Berkeley/UCB-VIRT-FIN-PT-12-2023-U-LOLC/-/blob/main/05-APIs/Class_2_Activities/04-Ins_Alpaca_Demo/Solved/alpaca-demo.ipynb?ref_type=heads
-* https://git.bootcampcontent.com/University-of-California---Berkeley/UCB-VIRT-FIN-PT-12-2023-U-LOLC/-/blob/main/05-APIs/Class_2_Activities/05-Stu_Investment_Value/Solved/investment-value.ipynb?ref_type=heads
+* https://git.bootcampcontent.com/University-of-California---Berkeley/UCB-VIRT-FIN-PT-12-2023-U-LOLC/-/blob/main/06-PyViz/3/Activities/01-Ins_GeoViews_Demo/Solved/geoviews_demo.ipynb?ref_type=heads
+* https://git.bootcampcontent.com/University-of-California---Berkeley/UCB-VIRT-FIN-PT-12-2023-U-LOLC/-/blob/main/06-PyViz/1/Activities/07-Stu_Composing_Masterpieces/Solved/composing_masterpieces.ipynb?ref_type=heads
 
 ## Tutors & Peers 
 ### Tutor Meetings through FINTECH Bootcamp:
