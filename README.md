@@ -34,9 +34,13 @@ The main task in this Challenge is to visualize and analyze the real-estate data
 * Answer: Housing_units steadly increased between 2010 and 2016 at a rate of 1900 to 2000 per year
 
 # Calculate and Plot the Average Sale Prices per Square Foot
-1. Group the data by year, and then average the results. What’s the lowest gross rent that’s reported for the years that the DataFrame includes?
+1. Group the data by year, and then average the results. 
+
+<img width="700" alt="Screenshot 2024-01-31 at 6 54 30 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_6/assets/152752672/dda4ddc4-3048-481e-8f97-66729fe1ba83">
 
 2. Create a new DataFrame named prices_square_foot_by_year by filtering out the “housing_units” column. The new DataFrame should include the averages per year for only the sale price per square foot and the gross rent.
+
+<img width="627" alt="Screenshot 2024-01-31 at 6 57 38 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_6/assets/152752672/3150b66f-a238-4afc-b923-994172ede3eb">
 
 3. Answer the following question:
 - Question: What is the lowest gross rent reported for the years included in the DataFrame?
@@ -44,6 +48,11 @@ The main task in this Challenge is to visualize and analyze the real-estate data
 
 4. Use hvPlot to plot the prices_square_foot_by_year DataFrame as a line plot.
 Hint This single plot will include lines for both sale_price_sqr_foot and gross_rent.
+
+<img width="877" alt="Screenshot 2024-01-31 at 6 57 47 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_6/assets/152752672/29021f32-eef3-4d8a-86d5-96d0578175b5">
+
+<img width="716" alt="Screenshot 2024-01-31 at 6 57 54 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_6/assets/152752672/3a3a2a04-c74f-4448-846c-bb3841130dfa">
+
 
 5. Answer the following questions:
 * Question 1: Did any year experience a drop in the average sale price per square foot compared to the previous year?
