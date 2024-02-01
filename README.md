@@ -74,13 +74,13 @@ Hint This single plot will include lines for both sale_price_sqr_foot and gross_
 * Answer 2: The one-click & buy-and-rent strategy will be successful in San Francisco. I would reccomend investing in areas that don't have recent decreases in either metric. However, this data is not considering Covid-19 in which these predictions does not consider the potential housing market coming to a hault in 2020.
 
 # Compose Your Data Story
-Based on the visualizations that you have created, compose a data story that synthesizes your analysis by answering the following questions:
+* Based on the visualizations that you have created, compose a data story that synthesizes your analysis by answering the following questions:
 
-Question 1: How does the trend in rental income growth compare to the trend in sales prices? Does this same trend hold true for all the neighborhoods across San Francisco?
-Answer 1: The tred is that rental income has increased while sales price has remained somewhat stagnant with minimal inscreases. There are some neighborhoods that have seen slight drcreases in sales price but they are exceptions. For example, Union Square does show a higher growth of sales prices in comparison to other neighborhoods and rental income growth.
+- Question 1: How does the trend in rental income growth compare to the trend in sales prices? Does this same trend hold true for all the neighborhoods across San Francisco?
+- Answer 1: The tred is that rental income has increased while sales price has remained somewhat stagnant with minimal inscreases. There are some neighborhoods that have seen slight drcreases in sales price but they are exceptions. For example, Union Square does show a higher growth of sales prices in comparison to other neighborhoods and rental income growth.
 
-Question 2: What insights can you share with your company about the potential one-click, buy-and-rent strategy that they're pursuing? Do neighborhoods exist that you would suggest for investment, and why?
-Answer 2: The one-click & buy-and-rent strategy will be successful in San Francisco. I would reccomend investing in areas that don't have recent decreases in either metric. However, this data is not considering Covid-19 in which these predictions does not consider the potential housing market coming to a hault in 2020.
+- Question 2: What insights can you share with your company about the potential one-click, buy-and-rent strategy that they're pursuing? Do neighborhoods exist that you would suggest for investment, and why?
+- Answer 2: The one-click & buy-and-rent strategy will be successful in San Francisco. I would reccomend investing in areas that don't have recent decreases in either metric. However, this data is not considering Covid-19 in which these predictions does not consider the potential housing market coming to a hault in 2020.
 
 # Resources 
 ## In Class Activites 
